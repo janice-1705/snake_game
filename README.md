@@ -1,5 +1,7 @@
 # Snake Game
 
+![Snake Game Gameplay](snake_game_img.png)
+
 A classic arcade-style Snake game built with Python using an Object-Oriented Programming (OOP) approach. This project demonstrates clean code structure and real-time event handling using the Turtle graphics library.
 
 ## Key Features
